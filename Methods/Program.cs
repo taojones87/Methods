@@ -29,7 +29,7 @@ namespace Methods
                 // If the user enters an empty value, the application provides instructions to try again.
                 else
                 {
-                    Console.WriteLine("Please run the progrm again and enter a valid name.");
+                    Console.WriteLine("Please run the program again and enter a valid name.");
                     Console.WriteLine("Press any key to exit the program...");
                     Console.ReadKey(true);
                 }
